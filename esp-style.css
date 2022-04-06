@@ -126,3 +126,7 @@ h1 {
     background-color: #2f4468;
     color: white;
 }
+
+.center {
+    text-align: center;
+}
